@@ -1,0 +1,8 @@
+{
+    "build": {
+        "goal": "mvn"
+    },
+    "deploy": {
+        "goal": "spring-boot:run -DkipTests"
+    }
+}
